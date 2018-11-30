@@ -1,0 +1,27 @@
+{
+  "name": "mean-stack-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate to start an app on top of MongoDB, Express.js, Angular(latest version) &amp; Node.js along with UI &amp; Unit Testing tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetcric/mean-stack-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meetcric/mean-stack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/meetcric/mean-stack-boilerplate#readme"
+}
